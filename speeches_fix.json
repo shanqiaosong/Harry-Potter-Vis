@@ -1,0 +1,3937 @@
+[
+    {
+        "sceneInfo": [
+            "A neighbourhood on a street called Privet Drive. An owl, sitting on the street sign flies off to reveal a mysterious appearing old man walking through a forest near the street. He stops at the start of the street and takes out a mechanical device and zaps all the light out of the lampposts. He puts away the device and a cat meows. The man, ALBUS DUMBLEDORE, looks down at the cat, which is a tabby and is sitting on a brick ledge."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "I should have known that you would be here...Professor McGonagall.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Good evening, Professor Dumbledore. Are the rumours true, Albus?",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "I'm afraid so, Professor. The good, and the bad.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "And the boy?",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Hagrid is bringing him.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Do you think it wise to trust Hagrid with something as important as this?",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Ah, Professor, I would trust Hagrid with my life.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Professor Dumbledore, Sir. Professor McGonagall.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "No problems, I trust, Hagrid?",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "No, sir. Little tyke fell asleep just as we were flying over Bristol. Heh. Try not to wake him. There you go.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Albus, do you really think its safe, leaving him with these people? I've been watching them all day. They're the worst sort of Muggles imaginable. They really are",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "The only family he has.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "This boy will be famous. There wont be a child in our world who doesn't know his name.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Exactly. He's better off growing up away from all that. Until he is ready.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "There, there, Hagrid. It's not really good-bye, after all.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Good luck...Harry Potter.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Up. Get up.   Now!",
+                "name": "Petunia"
+            },
+            {
+                "speech": "Wake up, cousin! We're going to the zoo!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Oh, here he comes, the birthday boy!",
+                "name": "Petunia"
+            },
+            {
+                "speech": "Happy birthday, son.",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Why don't you just cook the breakfast, and try not to burn anything.",
+                "name": "Petunia"
+            },
+            {
+                "speech": "Yes, Aunt Petunia.",
+                "name": "Harry"
+            },
+            {
+                "speech": "I want everything to be perfect for my Dudley's special day.",
+                "name": "Petunia"
+            },
+            {
+                "speech": "Hurry up! Bring my coffee, boy!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Yes, Uncle Vernon.",
+                "name": "Harry"
+            },
+            {
+                "speech": "How many are there?",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Thirty-six. Counted 'em myself.",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Thirty-six?! But last year last year I got thirty-seven!!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Yes, well, some of them are quite a bit bigger than last year!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "I don't care how big they are!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Oh, now, now, now. This is what we're going to do, is that when we go out we're going to buy you two new presents! How's that, Pumpkin?",
+                "name": "Petunia"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Outside, morning. The happy family is heading to the car. Harry goes to get in but is stopped by Vernon."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "This will be a lovely day at the zoo. I'm really looking forward to it.",
+                "name": "Petunia"
+            },
+            {
+                "speech": "I'm warning you now, boy. Any funny business, any at all, and you won't have any meals for a week. Get in.",
+                "name": "Vernon"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The zoo. The family is in the reptile house, looking at a large BOA CONSTRICTOR."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Make it move.",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Move!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "MOVE!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "He's asleep!",
+                "name": "Harry"
+            },
+            {
+                "speech": "He's boring.",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Sorry about him. He doesn't understand what it's like, lying there day after day, having people press their ugly faces in on you.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Can you...hear me?  It's just...I've never talked to a snake before. Do you...I mean...do you talk to people often?  You're from Burma, aren't you? Was it nice there, do you miss your family?  I see. That's me as well. I never knew my parents, either.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Mummy, dad, come here! You won't believe what this snake is doing!!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Whoa! Ahh! Ahh!!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Thankssssssss.",
+                "name": "Snake"
+            },
+            {
+                "speech": "Anytime.",
+                "name": "Harry"
+            },
+            {
+                "speech": "SNAKE!",
+                "name": "Man"
+            },
+            {
+                "speech": "Mum, mummy!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "AHH!",
+                "name": "Petunia"
+            },
+            {
+                "speech": "Mum, help! Help me!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "My darling boy! How did you get in there?!",
+                "name": "Petunia"
+            },
+            {
+                "speech": "",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Back at the Dursley's. Petunia and a bundled up Dudley come in."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "It's all right. It's all right.",
+                "name": "Petunia"
+            },
+            {
+                "speech": "Ow!",
+                "name": "Harry"
+            },
+            {
+                "speech": "What happened?",
+                "name": "Vernon"
+            },
+            {
+                "speech": "I swear I don't know! One minute the glass was there and then it was gone! It was like magic!",
+                "name": "Harry"
+            },
+            {
+                "speech": "There's no such thing as magic!",
+                "name": "Vernon"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Outside, some time later. An owl flies by the house and drops a letter, which zooms in the letterbox. It lands away from the house and hoots.",
+            "Harry, inside, goes to collect the mail. He sorts through the letters and sees his, addressed to him. He goes into the kitchen, hands Vernon the rest of the mail, and walks around the other side of the table to see his letter."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Ah, Marge is ill. Ate a funny whelk.",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Dad, look! Harry's got a letter!!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Hey, give it back! It's mine!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Yours? Who'd be writing to you?",
+                "name": "Vernon"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Another owl flies by with a letter and drops it off. Inside, Vernon grabs a handful of letters and rips them up.",
+            "In the closet, Harry hears a whirring noise. He looks out at Vernon drilling wood over the letterbox opening."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "No more mail through this letterbox.",
+                "name": "Vernon"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Outside, Vernon and Petunia appear. Vernon is about to head off to work. Petunia kisses his cheek."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Have a lovely day at the office, dear.",
+                "name": "Petunia"
+            },
+            {
+                "speech": "Shoo! Go on!",
+                "name": "Vernon"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Living/Family room. The family is sitting around, Harry is serving cookies."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Fine day Sunday. In my opinion, best day of the week. Why is that, Dudley?",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Because there's no post on Sunday? Ah, right you are, Harry. No post on Sunday. Hah! No blasted letters today. No, sir.  No sir, not one blasted, miserable---",
+                "name": "Harry"
+            },
+            {
+                "speech": "AHH! Make it stop! Please make it stop!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "",
+                "name": "Petunia"
+            },
+            {
+                "speech": "",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Go away, ahh!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "What is it? Please tell me what's happening!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Give me that! Give me that letter!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Get off! Ahh!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Ahh!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "They're my letters! Let go of me!",
+                "name": "Harry"
+            },
+            {
+                "speech": "That's it! We're going away! Far away! Where they can't find us!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Daddy's gone mad, hasnt he?!",
+                "name": "Dudley"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [],
+        "sceneSpeech": [
+            {
+                "speech": "Make a wish, Harry.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Who's there? Ahh!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Sorry 'bout that.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "I demand that you leave at once, Sir! You are breaking and entering!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Ooh.",
+                "name": "Petunia"
+            },
+            {
+                "speech": "Dry up, Dursley, you great prune.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Ahh!",
+                "name": "All"
+            },
+            {
+                "speech": "Mind, I haven't seen you since you was a baby, Harry, but you're a bit more along than I would have expected. Particularly 'round the middle!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "I-I-I'm not Harry.",
+                "name": "Dudley"
+            },
+            {
+                "speech": "I-I am.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh, well, of course you are! Got something for ya. 'Fraid I might have sat on it at some point! I imagine that it'll taste fine just the same. Ahh. Baked it myself.  Words and all. Heh.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Thank you!",
+                "name": "Harry"
+            },
+            {
+                "speech": "It's not every day that your young man turns eleven, now is it?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Excuse me, who are you?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Rubeus Hagrid. Keeper of keys and grounds at Hogwarts. Course, you'll know all about Hogwarts.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Sorry, no.",
+                "name": "Harry"
+            },
+            {
+                "speech": "No? Blimey, Harry, didn't you ever wonder where your mum and dad learned it all?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Learnt what?",
+                "name": "Harry"
+            },
+            {
+                "speech": "You're a wizard, Harry.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "I-I'm a what?",
+                "name": "Harry"
+            },
+            {
+                "speech": "A wizard. And a thumping good one at that, I'd wager. Once you train up a little.",
+                "name": "Harry"
+            },
+            {
+                "speech": "No, you've made a mistake. I can't be...a-a wizard. I mean, I'm just... Harry. Just Harry.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Well, Just Harry, did you ever make anything happen? Anything you couldn't explain when you were angry or scared?  Ah.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Dear, Mr. Potter. We are pleased to inform you that you have been accepted at Hogwarts' School of Witchcraft and Wizardry!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Hell not be going! We swore when we took him in wed put an end to this rubbish!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "You knew?? You knew all along and you never told me?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Of course we knew. How could you not be? My perfect sister being who she was. Oh, my mother and father were so proud the day she got her letter. We have a witch in the family. Isn't it wonderful? I was the only one to see her for what she was. A freak! And then she met that Potter, and then she had you, and I knew you'd be just the same, just as strange, just as ... abnormal. And then, if you please, she went and got herself blown up! And we got landed with you.",
+                "name": "Petunia"
+            },
+            {
+                "speech": "Blown up? You told me my parents died in a car crash!",
+                "name": "Harry"
+            },
+            {
+                "speech": "A car crash? A car crash kill James and Lily Potter?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "We had to tell him something.",
+                "name": "Petunia"
+            },
+            {
+                "speech": "It's an outrage! It's a scandal!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "He'll not be going!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Oh, and I suppose a great Muggle like yourself's going to stop him, are you?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Muggle?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Non magic folk. This boy's had his name down ever since he was born! He's going to the finest school of witchcraft and wizardry in the world, and he'll be under the greatest headmaster Hogwarts' has ever seen: Albus Dumbledore.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "I will not pay for some crackpot old fool to teach him magic tricks!",
+                "name": "Vernon"
+            },
+            {
+                "speech": "Never insult Albus Dumbledore in front of me.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Ahh!",
+                "name": "Dudley"
+            },
+            {
+                "speech": "Ahh!",
+                "name": "All"
+            },
+            {
+                "speech": "",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh, um, I'd appreciate if you didn't tell anyone at Hogwarts about that. Strictly speaking, I'm not allowed to do magic.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Okay.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Ooh, we're a bit behind schedule. Best be off. Unless you'd rather stay, of course. Hmm?",
+                "name": "Hagrid"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Streets of London. Hagrid and Harry are walking."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "All students must be equipped with...one standard size two pewter cauldron and may bring if they desire either an owl, a cat or a toad. Can we find all this in London?",
+                "name": "Harry"
+            },
+            {
+                "speech": "If you know where to go.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Ah, Hagrid! The usual, I presume?",
+                "name": "Tom"
+            },
+            {
+                "speech": "No thanks, Tom. I'm on official Hogwarts business today. Just helping young Harry here buy his school supplies.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Bless my soul. It's Harry Potter.",
+                "name": "Tom"
+            },
+            {
+                "speech": "Welcome back, Mr. Potter, welcome back.",
+                "name": "Man"
+            },
+            {
+                "speech": "Doris Crockford, Mr. Potter. I can't believe I'm meeting you at last.",
+                "name": "Witch"
+            },
+            {
+                "speech": "Harry P-potter. C-can't tell you how pleased I am to meet you.",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Hello, Professor. I didn't see you there. Harry, this is Professor Quirrell. He'll be your Defense Against the Dark Arts teacher at Hogwarts.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Oh, nice to meet you.",
+                "name": "Harry"
+            },
+            {
+                "speech": "F-fearfully fascinating subject. N-not that you need it, e-eh, Potter? Heheh.",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Yes, well, must be going now. Lots to buy. Heh.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Good-bye.",
+                "name": "Harry"
+            },
+            {
+                "speech": "See, Harry, you're famous!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "But why am I famous, Hagrid? All those people back there, how is it they know who I am?",
+                "name": "Harry"
+            },
+            {
+                "speech": "I'm not exactly sure I'm the right person to tell you that, Harry.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Here's where you'll get your quills and ink, and over there all your bits and bobs for doing your wizardry.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "It's a world class racing broom. Look at it, its the new Nimbus 2000! It's the fastest model yet.",
+                "name": "Boy"
+            },
+            {
+                "speech": "But, Hagrid, how am I to pay for all this? I haven't any money.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Well there's your money, Harry. Gringotts, the Wizard Bank. T'aint no place safer, 'cept perhaps Hogwarts.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Uh, Hagrid, what exactly are those things?",
+                "name": "Harry"
+            },
+            {
+                "speech": "They're goblins, Harry. Clever as they come goblins but not the most friendly of beasts. Best stick close to me.   Mr. Harry Potter wishes to make a withdrawal.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "And does Mr. Harry Potter have his key?",
+                "name": "Goblin"
+            },
+            {
+                "speech": "Oh. Wait a minute. Got it here somewhere. Hah. Here's the little devil. Oh, and there's something else as well. Professor Dumbledore gave me this. It's about you-know-what in vault you-know-which.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Very well.",
+                "name": "Goblin"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Racing down the depth caverns in a cartlike structure. The cart stops, a goblin, GRIPHOOK, clambers out."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Vault 687. Lamp, please.  Key please.",
+                "name": "Griphook"
+            },
+            {
+                "speech": "Didn't think your mum and dad would leave you with nothing, now didja?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Vault 713.",
+                "name": "Griphook"
+            },
+            {
+                "speech": "What's in there, Hagrid?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Can't tell you, Harry. It's Hogwarts business. Very secret.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Stand back.",
+                "name": "Griphook"
+            },
+            {
+                "speech": "Best not mention this to anyone, Harry.",
+                "name": "Hagrid"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Outside in the street, walking."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "I still need...a wand.",
+                "name": "Harry"
+            },
+            {
+                "speech": "A wand? Well, you'll want Ollivanders. No place better. Run along there, but wait. I just got one more thing I got to do. Won't be long.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Hello? Hello?",
+                "name": "Harry"
+            },
+            {
+                "speech": "I wondered when I'd be seeing you, Mr. Potter. It seems only yesterday that your mother and father were in here buying their first wands.  Ah. Here we are.  Well, give it a wave.",
+                "name": "Ollivander"
+            },
+            {
+                "speech": "Oh!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Apparently not.  Perhaps this.  No, no, definitely not! No matter... I wonder.  Curious, very curious.",
+                "name": "Ollivander"
+            },
+            {
+                "speech": "Sorry, but what's curious?",
+                "name": "Harry"
+            },
+            {
+                "speech": "I remember every wand I've ever sold, Mr. Potter. It just so happens that the phoenix, whose tail feather resides in your wand gave one other feather, just one. It is curious that you should be destined for this wand when its brother gave you that scar.",
+                "name": "Ollivander"
+            },
+            {
+                "speech": "And...who owned that wand?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh, we do not speak his name. The wand chooses the wizard, Mr. Potter. It's not always clear why, but I think it is clear that we can expect great things from you. After all, He-Who-Must-Not-Be-Named did great things...terrible, yes, but great.",
+                "name": "Ollivander"
+            },
+            {
+                "speech": "Harry! Harry! Happy birthday!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Wow.",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Later, eating supper. The two, Hagrid and Harry, are at a long table, eating soup."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "You all right, Harry? You seem very quiet.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "He killed my parents, didn't he? The one who gave me this. You know, Hagrid, I know you do.",
+                "name": "Harry"
+            },
+            {
+                "speech": "First, and understand this, Harry, 'cause it's very important. Not all wizards are good. Some of them go bad. A few years ago there was one wizard who went as bad as you can go. And his name was V-...his name was V-...",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Maybe if you wrote it down?",
+                "name": "Harry"
+            },
+            {
+                "speech": "No, I can't spell it. All right. His name was Voldemort.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Voldemort?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Shh!!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "It was dark times, Harry, dark times. Voldemort started to gather some followers, brought 'em over to the dark side. Anyone that stood up to him ended up dead. Your parents fought against him, but nobody lived once he decided to kill 'em.  Nobody...not one. Except you.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Me? Voldemort tried to kill...me?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Yes. That ain't no ordinary cut on your forehead, Harry. A mark like that only comes from being touched by a curse...and an evil curse at that.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "What happened to Vo-...to You-Know-Who?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Some say he died. Codswallop in my opinion. Nope, I reckon he's out there, still, too tired to go on. But one thing's absolutely certain. Something about you stumped him that night. That's why you're famous, Harry. That's why everbody knows your name. You're the boy who lived.",
+                "name": "Hagrid"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "London Train Station. Up on a crossing bridge, Harry (with cart and owl) walk beside Hagrid.",
+            "A couple look at Hagrid."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "What're you looking at?  Blimey, is that the time?? Sorry, Harry, I'm gonna have to leave you. Dumbledore'll be wanting his...well, he'll be wanting to see me. Now, uh, your train leaves in 10 minutes. Here's your ticket. Stick to it, Harry that's very important. Stick to your ticket.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Platform 9 \u622e? But Hagrid, there must be a mistake. This says Platform 9 \u622e. There's no such thing...is there?",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Harry is walking down lane between trains. A man rushes by."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Sorry.",
+                "name": "Man"
+            },
+            {
+                "speech": "Excuse me, excuse me.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Right on your left, ma'am.",
+                "name": "Trainmaster"
+            },
+            {
+                "speech": "Excuse me, Sir. Can you tell me where I might find Platform 9 \u622e?",
+                "name": "Harry"
+            },
+            {
+                "speech": "9 \u622e? Think youre being funny, do ya?",
+                "name": "Trainmaster"
+            },
+            {
+                "speech": "It's the same year after year. Always packed with Muggles, of course.",
+                "name": "Mrs. Weasley"
+            },
+            {
+                "speech": "Muggles?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Come on. Platform 9 \u622e this way! All right, Percy, you first.",
+                "name": "Mrs. Weasley"
+            },
+            {
+                "speech": "Fred, you next.",
+                "name": "Mrs. Weasley"
+            },
+            {
+                "speech": "He's not Fred, I am!",
+                "name": "George"
+            },
+            {
+                "speech": "Honestly, woman, you call yourself our mother!",
+                "name": "Fred"
+            },
+            {
+                "speech": "Oh, I'm sorry, George.",
+                "name": "Mrs. Weasley"
+            },
+            {
+                "speech": "I'm only joking. I am Fred.",
+                "name": "Fred"
+            },
+            {
+                "speech": "Excuse me! C-could you tell me how to",
+                "name": "Harry"
+            },
+            {
+                "speech": "How to get on the platform? Yes, not to worry, dear. It's Ron's first time to Hogwarts as well.  Now, all you've got to do is walk straight at the wall between platforms 9 and 10. Best do it at a bit of a run if youre nervous.",
+                "name": "Mrs. Weasley"
+            },
+            {
+                "speech": "Good luck.",
+                "name": "Ginny"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The train is traveling through unknown country. Pan to inside compartment, where Harry is sitting. The red headed boy, RON, appears, dirt on his nose."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Excuse me, do you mind? Everywhere else is full.",
+                "name": "Ron"
+            },
+            {
+                "speech": "No, not at all.",
+                "name": "Harry"
+            },
+            {
+                "speech": "I'm Ron, by the way. Ron Weasley.",
+                "name": "Ron"
+            },
+            {
+                "speech": "I'm Harry. Harry Potter.",
+                "name": "Harry"
+            },
+            {
+                "speech": "So-so it's true?! I mean, do you really have the...the...",
+                "name": "Ron"
+            },
+            {
+                "speech": "The what?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Scar...?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Oh, yeah.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Wicked.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Anything off the trolley, dears?",
+                "name": "Woman"
+            },
+            {
+                "speech": "No, thanks, I'm all set.",
+                "name": "Ron"
+            },
+            {
+                "speech": "We'll take the lot!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Whoa!",
+                "name": "Ron"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Eating bundles of sweets.",
+            "Ron's rat, Scabbers, is perched on Ron's knee, a box over its head."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Bertie Bott's Every Flavour Beans?",
+                "name": "Harry"
+            },
+            {
+                "speech": "They mean every flavour! There's chocolate and peppermint, and there's also spinach, liver and tripe. George sweared he got a bogey-flavoured one once!",
+                "name": "Ron"
+            },
+            {
+                "speech": "These aren't real chocolate frogs, are they?",
+                "name": "Harry"
+            },
+            {
+                "speech": "It's only a spell. Besides, it's the cards you want. Each pack's got a famous witch or wizard. I got about 500 meself.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ribbit.",
+                "name": "Frog"
+            },
+            {
+                "speech": "Oh, that's rotten luck. They've only got one good jump in them to begin with.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Hey, I got Dumbledore!",
+                "name": "Harry"
+            },
+            {
+                "speech": "I got about 6 of him.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Hey, he's gone!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Well, you can't expect him to hang around all day, can you?  This is Scabbers, by the way, pitiful, isn't he?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Just a little bit.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Fred gave me a spell as to turn him yellow. Want to see?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Yeah!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Ahem. Sun-",
+                "name": "Ron"
+            },
+            {
+                "speech": "Has anyone seen a toad? A boy named Neville's lost one.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "No.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Oh, are you doing magic? Let's see then.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Aghhhemm. Sunshine, daises, butter mellow, turn this stupid fat rat yellow!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Are you sure that's a real spell? Well, it's not very good, is it? Of course I've only tried a few simple spells myself, and they've all worked for me. For example... Oculus Reparo.  That's better, isn't it? Holy Cricket, you're Harry Potter. I'm Hermione Granger...and you are...?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I'm...Ron Weasley.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Pleasure. You two better change into your robes. I expect we'll be arriving soon.  You've got dirt, on your nose, by the way, did you know? Just there.",
+                "name": "Hermione"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Darkness, the train blows its whistle and pulls into an outdoor station. Hagrid walks along the side aisle, with a lantern. People begin pouring out of the train."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Right, then! First years! This way, please! Come on, now, don't be shy! Come on now, hurry up!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Hello, Harry.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Hey, Hagrid.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Whoaa!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Right then. This way to the boats! Come on, now, follow me.",
+                "name": "Hagrid"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "A number of boats are plugging across a vast lake, where up ahead a huge castle can be seen. People are in awe."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Wicked.",
+                "name": "Ron"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "On a higher level, Professor McGonagall is waiting. She raps her fingers on a stone railing, and then goes to the top of the stairs to greet the newcomers."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Welcome to Hogwarts. Now, in a few moments, you will pass through these doors and join your classmates. But before you can take your seats you must be sorted into your houses. They are Gryffindor, Ravenclaw, Hufflepuff, and Slytherin. Now, while you are here, your house will be like your family. Your triumphs will earn you house points. Any rule breaking, and you will lose points. At the end of the year, the house with the most points is awarded the house cup",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Trevor!  Sorry.",
+                "name": "Neville"
+            },
+            {
+                "speech": "The sorting ceremony will begin momentarily.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "It's true then, what they're saying on the train. Harry Potter has come to Hogwarts.  This is Crabbe, and Goyle  and I'm Malfoy...Draco Malfoy.  Think my name's funny, do you? No need to ask yours. Red hair, and a hand me down robe? You must be a Weasley. Well soon find that some wizarding families are better than others, Potter. Dont want to go making friends with the wrong sort. I can help you there.",
+                "name": "Draco"
+            },
+            {
+                "speech": "I think I can tell who the wrong sort are for myself, thanks.",
+                "name": "Harry"
+            },
+            {
+                "speech": "We're ready for you now.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "It's not real, the ceiling. It's just bewitched to look like the night sky. I read about it in Hogwarts: A History.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "All right, will you wait along here, please? Now, before we begin, Professor Dumbldedore would like to say a few words.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "I have a few start of term notices I wish to announce. The first years please note that the dark forest is strictly forbidden to all students. Also, our caretaker, Mr. Filch  has asked me to remind you that the 3rd floor corridor on the right hand side is out of bounds to everyone who does not wish to die a most painful death. Thank you.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "When I call your name, you will come forth, I shall place the sorting hat on your head, and you will be sorted into your houses. Hermione Granger.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Oh, no. Okay, relax.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Mental that one, I'm telling you.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ah, right then...hmm...right. Okay...Gryffindor!!",
+                "name": "Sorting Hat"
+            },
+            {
+                "speech": "Draco Malfoy.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "SLYTHERIN!",
+                "name": "Sorting Hat"
+            },
+            {
+                "speech": "There isn't a witch or wizard who went bad who wasnt in Slytherin.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Susan Bones.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Ahh!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Harry, what is it?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Nothing...it's nothing, I'm fine.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Let's see...I know...Hufflepuff!",
+                "name": "Sorting Hat"
+            },
+            {
+                "speech": "Ronald Weasley.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Ah! Another Weasley. I know just where to put you...Gryffindor!!",
+                "name": "Sorting Hat"
+            },
+            {
+                "speech": "",
+                "name": "Ron"
+            },
+            {
+                "speech": "Harry Potter.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Hmm...difficult, very difficult. Plenty of courage I see, not a bad mind, either. There's talent, oh yes, and a thirst to prove yourself. But where to put you?",
+                "name": "Sorting Hat"
+            },
+            {
+                "speech": "Not Slytherin. Not Slytherin.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Not Slytherin, eh? Are you sure? You could be great, you know. Its all here in your head. And Slytherin will help you on your way to greatness! There's no doubt about that! No?  Well, if youre sure...better be...GRYFFINDOR!!",
+                "name": "Sorting Hat"
+            },
+            {
+                "speech": "Your attention, please.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Let the feast...begin.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Wow.",
+                "name": "Harry"
+            },
+            {
+                "speech": "I'm half and half. Me dad's a Muggle. Mam's a witch. Bit of a nasty shock for him when he found out.",
+                "name": "Seamus"
+            },
+            {
+                "speech": "Say, Percy, who's that teacher talking to Professor Quirrell?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh, that's Professor Snape, head of Slytherin house.",
+                "name": "Percy"
+            },
+            {
+                "speech": "What's he teach?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Potions. But everyone knows it's the Dark Arts he fancies. He's been after Quirrells job for years.",
+                "name": "Percy"
+            },
+            {
+                "speech": "Ahh!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Hello! How are you? Welcome to Gryffindor.",
+                "name": "Nick"
+            },
+            {
+                "speech": "Whoo-hoo-hoo!",
+                "name": "Hufflepuff ghost"
+            },
+            {
+                "speech": "Look, its the Bloody Baron!",
+                "name": "Girl"
+            },
+            {
+                "speech": "Hello, Sir Nicholas. Have a nice summer?",
+                "name": "Percy"
+            },
+            {
+                "speech": "Dismal. Once again, my request to join the headless hunt has been denied.",
+                "name": "Nick"
+            },
+            {
+                "speech": "Hey, I know you! You're Nearly Headless Nick!",
+                "name": "Ron"
+            },
+            {
+                "speech": "I prefer Sir Nicholas if you don't mind.",
+                "name": "Nick"
+            },
+            {
+                "speech": "Nearly headless? How can you be nearly headless?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Like this.",
+                "name": "Nick"
+            },
+            {
+                "speech": "Ahh!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Eugh.",
+                "name": "Hermione"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Percy is leading the Gryffindors to the staircases."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Gryffindors, follow me please. Keep up. Thank you.",
+                "name": "Percy"
+            },
+            {
+                "speech": "Ravenclaw, follow me. This way.",
+                "name": "Boy"
+            },
+            {
+                "speech": "This is the most direct path to the dormitories. Oh, and keep an eye on the staircases...they like to change.",
+                "name": "Percy"
+            },
+            {
+                "speech": "Keep up, please, and follow me. Quickly now, come on. Come on.",
+                "name": "Percy"
+            },
+            {
+                "speech": "Seamus, that picture's moving!",
+                "name": "Neville"
+            },
+            {
+                "speech": "Look at that one, Harry!",
+                "name": "Ron"
+            },
+            {
+                "speech": "I think she fancies you.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh, look! Look! Who's that girl?",
+                "name": "Girl"
+            },
+            {
+                "speech": "Welcome to Hogwarts.",
+                "name": "Man in painting"
+            },
+            {
+                "speech": "Who's that?",
+                "name": "Girl"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Approaching the Gryffindor dorms. They come up to a large painting of a large woman in a pink dress."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Password?",
+                "name": "Woman"
+            },
+            {
+                "speech": "Caput Draconis.  Follow me, everyone. Keep up, quickly, come on.",
+                "name": "Percy"
+            },
+            {
+                "speech": "Oh, wow.",
+                "name": "Girl"
+            },
+            {
+                "speech": "Gather 'round here. Welcome to the Gryffindor Common Room. Boys' dormitories, upstairs and down to your left. Girls, the same on your right. You'll find that your belongings have already been brought up.",
+                "name": "Percy"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Morning. Harry and Ron are running through the stone halls to their class. They rush in. In the class, a tabby cat is sitting on a desk."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Whew, amazing, can you imagine the look on old McGonagall's face if we were late?",
+                "name": "Ron"
+            },
+            {
+                "speech": "That was bloody brilliant.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Thank you for that assessment, Mr. Weasley. Maybe if I were to transfigure Mr. Potter and yourself into a pocketwatch, maybe one of you would be on time.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "We got lost.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Then perhaps a map? I trust you don't need one to find your seats.",
+                "name": "McGonagall"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Snape's potions class. The students are chattering, sitting near steaming cauldrons. The door slams open and Snape comes rushing in."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "There will be no foolish wand waving or silly incantations in this class. As such, I don't expect many of you to enjoy the subtle science and exact art that is potion making. However, for those select few , who possess the predisposition, I can teach you how to bewitch the mind and ensnare the senses. I can tell you how to bottle fame, brew glory and even put a stopper  in death.   Then again, maybe some of you have come to Hogwarts in possession of abilities so formidable that you feel confidant enough to not...pay...attention.",
+                "name": "Snape"
+            },
+            {
+                "speech": "Mr. Potter. Our...new...celebrity. Tell me, what would I get if I added powdered root of asphodel to an infusion of wormwood?  You don't know? Well, let's try again. Where, Mr. Potter, would you look if I asked you to find me a bezoar?",
+                "name": "Snape"
+            },
+            {
+                "speech": "I don't know, Sir.",
+                "name": "Harry"
+            },
+            {
+                "speech": "And what is the difference between Monkshood and Wolfbane?",
+                "name": "Snape"
+            },
+            {
+                "speech": "I don't know, Sir.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Pity. Clearly, fame isn't everything, is it, Mr. Potter?",
+                "name": "Snape"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "In the great hall, probably midday. The students are all working on homework.",
+            "Seamus is trying a spell on a cup."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Eye of rabbit, harp string hum. Turn this water, into rum.  Eye of rabbit, harp string hum...",
+                "name": "Seamus"
+            },
+            {
+                "speech": "What's Seamus trying to do to that glass of water?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Turn it into rum. Actually managed a weak tea yesterday, before...",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ah. Mail's here!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Can I borrow this?  Thanks.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Hey, look! Neville's got a Remembrall!",
+                "name": "Seamus"
+            },
+            {
+                "speech": "I've read about those. When the smoke turns red , it means you've forgotten something.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "The only problem is, I can't remember what I've forgotten.",
+                "name": "Neville"
+            },
+            {
+                "speech": "Hey, Ron, somebody broke into Gringotts. Listen, Believed to be the work of dark witches or wizards unknown, Gringotts goblins, while acknowledging the breach, insist that nothing was taken. The vault in question, number 713, had in fact been emptied earlier that same day. That's odd. That's the vault Hagrid and I went to.",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Outside, flying practice. The students, Gryffindor and Slytherin, are lined up in two rows with brooms by their sides. The teacher, MADAM HOOCH, comes down the line. She has short hair and hawk yellow eyes."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Good afternoon, class.",
+                "name": "Hooch"
+            },
+            {
+                "speech": "Good afternoon, Madam Hooch.",
+                "name": "Class"
+            },
+            {
+                "speech": "Good afternoon, Amanda, good afternoon.  Welcome to your first flying lesson. Well, what are you waiting for? Everyone step up to the left side of their broomstick. Come on now, hurry up. Stick your right hand over the broom and say, Up!",
+                "name": "Hooch"
+            },
+            {
+                "speech": "Up!",
+                "name": "Class"
+            },
+            {
+                "speech": "Whoa.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Up!",
+                "name": "Draco"
+            },
+            {
+                "speech": "With feeling!",
+                "name": "Hooch"
+            },
+            {
+                "speech": "Up. Up. Up. Up.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Up!!  Ow!  Shut up, Harry.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Now, once you've got hold of your broom, I want you to mount it. And grip it tight, you don't want to be sliding off the end.  When I blow my whistle, I want each of you to kick off from the ground, hard. Keep your broom steady, hover for a moment, and then lean forward slightly and touch back down. On my whistle...3...2...",
+                "name": "Hooch"
+            },
+            {
+                "speech": "Oh...",
+                "name": "Neville"
+            },
+            {
+                "speech": "Mr. Longbottom.",
+                "name": "Hooch"
+            },
+            {
+                "speech": "Neville, what are you doing?",
+                "name": "Girl"
+            },
+            {
+                "speech": "Neville...Neville...",
+                "name": "Students"
+            },
+            {
+                "speech": "We're not supposed to take off, yet.",
+                "name": "Boy"
+            },
+            {
+                "speech": "M-M-Mr. Longbottom Mr. Longbottom!",
+                "name": "Hooch"
+            },
+            {
+                "speech": "AHH!",
+                "name": "Neville"
+            },
+            {
+                "speech": "Mr. Longbottom!",
+                "name": "Hooch"
+            },
+            {
+                "speech": "Down! Down! Ahhhh!",
+                "name": "Neville"
+            },
+            {
+                "speech": "Neville!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Help!!!",
+                "name": "Neville"
+            },
+            {
+                "speech": "Come back down this instant!",
+                "name": "Hooch"
+            },
+            {
+                "speech": "AHH!",
+                "name": "Neville"
+            },
+            {
+                "speech": "Help!",
+                "name": "Neville"
+            },
+            {
+                "speech": "Mr. Longbottom!",
+                "name": "Hooch"
+            },
+            {
+                "speech": "Ahhhh! Whoa! Ahhh!  Oh. Ah...help!  Ahh!",
+                "name": "Neville"
+            },
+            {
+                "speech": "Everyone out of the way!  Come on, get up.",
+                "name": "Hooch"
+            },
+            {
+                "speech": "Is he alright?",
+                "name": "Girl"
+            },
+            {
+                "speech": "Owowowow.",
+                "name": "Neville"
+            },
+            {
+                "speech": "Oh, oh, oh, oh dear. It's a broken wrist. Tch, tch, tch. Good boy, come on now, up you get.  Everyone's to keep their feet firmly on the ground while I take Mr. Longbottom to the hospital wing. Understand? If I see a single broom in the air, the one riding it will find themselves out of Hogwarts before they can say, Quidditch.",
+                "name": "Hooch"
+            },
+            {
+                "speech": "Did you see his face? Maybe if the fat lump had given this a squeeze, he'd have remembered to fall on his fat ass.",
+                "name": "Draco"
+            },
+            {
+                "speech": "Give it here, Malfoy.",
+                "name": "Harry"
+            },
+            {
+                "speech": "No. I think I'll leave it somewhere for Longbottom to find.  How 'bout up on the roof??  What's the matter, Potter? Bit beyond your reach?",
+                "name": "Draco"
+            },
+            {
+                "speech": "Harry, no! You heard what Madam Hooch said! Besides, you don't even know how to fly.  What an idiot.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Give it here, Malfoy, or I'll knock you off your broom!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Is that so?  Have it your way, then!",
+                "name": "Draco"
+            },
+            {
+                "speech": "Good job, Harry!",
+                "name": "Boy"
+            },
+            {
+                "speech": "Oh, that was wicked, Harry.",
+                "name": "Boy 2"
+            },
+            {
+                "speech": "Harry Potter? Follow me.",
+                "name": "McGonagall"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Professor Quirrells classroom. He is inside, teaching, holding an iguana."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "An iguana s-such as this is  an essential in-gredient",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Excuse me, excuse me, Professor Quirrell. Could I borrow Wood for a moment?",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Oh. Y-yes, of course.  And the vampire b-bat...",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Potter, this is Oliver Wood. Wood, I have found you a Seeker!",
+                "name": "McGonagall"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Harry and Ron are walking through crowded halls. Sir Nicholas and a lady ghost float by."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Have you heard? Harry Potter's the new Gryffindor Seeker. I always knew hed do well.",
+                "name": "Nick"
+            },
+            {
+                "speech": "Seeker? But first years never make their house teams! You must be the youngest Quidditch player in",
+                "name": "Ron"
+            },
+            {
+                "speech": "A century, according to McGonagall.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Hey, well done, Harry, Wood's just told us!",
+                "name": "Fred"
+            },
+            {
+                "speech": "Fred and George are on the team, too. Beaters.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Our job is to make sure that you don't get bloodied up too bad. Can't make any promises, of course. Rough game, Quidditch.",
+                "name": "George"
+            },
+            {
+                "speech": "Brutal. But no one's died in years. Someone will vanish occasionally... {They break off from Harry and Ron, who walk across a courtyard.",
+                "name": "Fred"
+            },
+            {
+                "speech": "But they'll turn up in a month or two!!",
+                "name": "George"
+            },
+            {
+                "speech": "Oh, go on, Harry, Quidditch is great. Best game there is! And you'll be great, too!",
+                "name": "Ron"
+            },
+            {
+                "speech": "But I've never even played Quidditch. What if I make a fool of myself?",
+                "name": "Harry"
+            },
+            {
+                "speech": "You won't make a fool of yourself. It's in your blood.",
+                "name": "Hermione"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The three approach a trophy case. Hermione points at a plaque of Quidditch players. One lists Harry's father as a Seeker."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Whoa. Harry, you never told me your father was a Seeker, too.",
+                "name": "Ron"
+            },
+            {
+                "speech": "I-I didn't know.",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The three are walking up a staircase. A railing pulls in...Hermione looks, but continues walking."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "I'm telling you, it's spooky. She knows more about you than you do.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Who doesn't?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Ahh!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ahh!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "What's happening?",
+                "name": "Harry"
+            },
+            {
+                "speech": "The staircases change, remember?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Let's go this way.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Before the staircase moves again.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Does anyone feel like...we shouldn't be here?",
+                "name": "Harry"
+            },
+            {
+                "speech": "We're not supposed to be here. This is the 3rd floor. It's forbidden.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Let's go.",
+                "name": "Harry"
+            },
+            {
+                "speech": "It's Filch's cat!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Run!",
+                "name": "Harry"
+            },
+            {
+                "speech": "It's locked!",
+                "name": "Harry"
+            },
+            {
+                "speech": "That's it, we're done for!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Oh, move over!  Alohomora.  Get in.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Alohomora?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Standard book of spells, Chapter 7.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Anyone here, my sweet?  Come on.",
+                "name": "Filch"
+            },
+            {
+                "speech": "Filch is gone.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Probably thinks this door's locked.",
+                "name": "Ron"
+            },
+            {
+                "speech": "It was locked.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "And for good reason.",
+                "name": "Harry"
+            },
+            {
+                "speech": "AHHHHHHH!",
+                "name": "All"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Back in the Gryffindor room. They are breathless."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "What do they think they're doing?? Keeping a thing like that locked up in a school.",
+                "name": "Ron"
+            },
+            {
+                "speech": "You don't use your eyes, do you? Didn't you see what it was standing on?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I wasn't looking at its feet! I was a bit preoccupied with its heads. Or maybe you didn't notice, there were three!",
+                "name": "Ron"
+            },
+            {
+                "speech": "It was standing on a trap door. Which means it wasn't there by accident. It's guarding something.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Guarding something?",
+                "name": "Harry"
+            },
+            {
+                "speech": "That's right. Now, if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed...or worse, expelled!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "She needs to sort out her priorities!",
+                "name": "Ron"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Outside, day time. Oliver and Harry appear, carrying a trunk. They put it down."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Quidditch is easy enough to understand. Each time has seven players, 3 chasers, 2 beaters, 1 keeper and a seeker that's you. There are three kinds of balls.  This one's called the Quaffle. Now, the chasers handle the Quaffle and try to put it through one of those three hoops.  The keeper, that's me, defends the hoops.  With me so far?",
+                "name": "Oliver"
+            },
+            {
+                "speech": "I think so. What are those?",
+                "name": "Harry"
+            },
+            {
+                "speech": "...You better take this.  Careful now, it's comin' back.  Eh, not bad, Potter, you'd make a fair beater...Uh-oh.  Bludger. Nasty little buggers. But the only ball I want you to worry about is this...the Golden Snitch.",
+                "name": "Oliver"
+            },
+            {
+                "speech": "I like this ball.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Ah, you like it now. Just wait. It's wicked fast and damn near impossible to see.",
+                "name": "Oliver"
+            },
+            {
+                "speech": "What do I do with it?",
+                "name": "Harry"
+            },
+            {
+                "speech": "You catch it...before the other team's seeker. You catch this, the game is over. You catch this, Potter, and we win.",
+                "name": "Oliver"
+            },
+            {
+                "speech": "Whoa.",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "PROFESSOR FLITWICK's class. The teacher is very short, and is standing on a bunch of books."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "One of a wizard's most rudimentary skills is levitation the ability to make objects fly. Uh, do you all have your feathers?  Good. Now, uh, don't forget the nice wrist movement we've been practicing, hmm? The swish and flick. Everyone.  The swish and flick. Good. And enunciate. Wingardium Leviosa. Off you go then.",
+                "name": "Flitwick"
+            },
+            {
+                "speech": "Wingardium Levio-saaa.",
+                "name": "Draco"
+            },
+            {
+                "speech": "Wingardrium Leviosar.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Stop, stop, stop. You're going to take someone's eye out. Besides, youre saying it wrong. It's Leviosa, not Leviosar.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "You do it then if you're so clever. Go on, go on.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Wingardium Leviosa.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Oh, well done! See here, everyone! Ms. Granger's done it! Oh, splendid!",
+                "name": "Flitwick"
+            },
+            {
+                "speech": "Wingard Levosa. Wingard Levosa.",
+                "name": "Seamus"
+            },
+            {
+                "speech": "Whooaaa! Ooh.",
+                "name": "Flitwick"
+            },
+            {
+                "speech": "I think we're going to need another feather over here, Professor.",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Neville, Harry, Ron and Seamus are walking through a courtyard with other students all around."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "It's Leviosa, not Leviosar. Honestly, she's a nightmare. No wonder she hasn't got any friends!",
+                "name": "Ron"
+            },
+            {
+                "speech": "I think she heard you.",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Night, in the great hall. It is Halloween. Everyone is eating candy, and Jack O'Lanterns are keeping the place lit. There is chatter."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Where's Hermione?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Parvati Patil said that she wouldn't come out of the girl's bathroom. She said that she'd been in there all afternoon...crying.",
+                "name": "Neville"
+            },
+            {
+                "speech": "TROLL! IN THE DUNGEON! T-TROOLLL IN THE DUNGEON!!  Thought you ought to know.",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "SILLLLLEEENNNNCEEEEE!  Everyone will please, not panic. Now, Prefects will lead their houses back to the dormitories. Teachers will follow me to the dungeons.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Hufflepuff, this way!",
+                "name": "Girl"
+            },
+            {
+                "speech": "Stay together!",
+                "name": "Boy"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Percy is leading the house down a hall."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Gryffindors...keep up please. And stay alert!",
+                "name": "Percy"
+            },
+            {
+                "speech": "How could a troll get in?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Not by itself. Trolls are really stupid. Probably people playing jokes.  What?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Hermione! She doesn't know!",
+                "name": "Harry"
+            },
+            {
+                "speech": "He's going into the Girl's Bathroom!",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "In the bathroom, Hermione emerges from a stall, wiping her eyes. She stops when she sees something. The troll is standing there. Hermione backs up, into the stall just as the troll raises its club and smashes the top part of the stalls. Hermione screams. Harry and Ron come bursting in."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Hermione, move!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Help! Help!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Hey, pea brain!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ahhh! Help!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Whooa! Whoa, whoa!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Ew.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Whoa, whoa whoa!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Do something!",
+                "name": "Harry"
+            },
+            {
+                "speech": "What?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Anything! Hurry up!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Swish and flick!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Wingardium Leviosa! {flick. The club is lifted out of the troll's hand and hovers above its head. The troll looks up, confused, just as the club comes crashing back down.   It hits the troll's head and the troll wavers, then drops Harry, who crawls away, and comes crashing down, hard.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Is it...dead?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I don't think so. Just knocked out.  Ew. Troll bogies.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh! Oh, my goodness! E-Explain yourselves, both of you!",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Well, what it is...",
+                "name": "Ron"
+            },
+            {
+                "speech": "Well, what it is...",
+                "name": "Harry"
+            },
+            {
+                "speech": "It's my fault, Professor McGonagall.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Ms. Granger?",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "I went looking for the troll. I'd read about them and thought I could handle it. But I was wrong. If Harry and Ron hadn't come and found me...I'd probably be dead.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Be that as it may...it was an extremely foolish thing to do.  I would have expected more rational behaviour on your part, Ms. Granger. 5 points will be taken from Gryffindor for your serious lack of judgment. As for you two gentlemen I just hope you realize how fortunate you are. Not many students could take on a full grown mountain troll and live to tell the tale. 5 points...will be awarded to each of you. For sheer dumb luck.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Perhaps you ought to go...M-might wake up...heh.   Ahh! Hehe....",
+                "name": "Quirrell"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The next morning, in the great hall. The gang is sitting, eating. Harry is twirling his food on a fork."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Take a bit of toast, mate, go on.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ron's right, Harry. You're gonna need your strength today.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I'm not hungry.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Good luck today, Potter. Then again, now that you've proven yourself against a troll, a little game of Quidditch should be easy work for you...even if it is against Slytherin.",
+                "name": "Snape"
+            },
+            {
+                "speech": "That explains the blood.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Blood?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Listen, last night, I'm guessing Snape let the troll in as a diversion so he could try and get past that 3 headed dog. But, he got himself bitten, that's why he's limping.",
+                "name": "Harry"
+            },
+            {
+                "speech": "But why would anyone go near that dog?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "The day I was at Gringotts, Hagrid took something out of one of the vaults. He said it was Hogwarts' business, very secret.",
+                "name": "Harry"
+            },
+            {
+                "speech": "So you're saying...",
+                "name": "Hermione"
+            },
+            {
+                "speech": "That's what the dog's guarding. That's what Snape wants.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Bit early for mail, isn't it?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "But I-I never get mail.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Let's open it.",
+                "name": "Ron"
+            },
+            {
+                "speech": "It's a broomstick!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Thats not just any broomstick, Harry. It's a Nimbus 2000!",
+                "name": "Ron"
+            },
+            {
+                "speech": "But who...?",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Inside a Quidditch tower. The Gryffindor team is marching towards the starting gate. They reach it and stop, behind a closed double door."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Scared, Harry?",
+                "name": "Oliver"
+            },
+            {
+                "speech": "A little bit.",
+                "name": "Harry"
+            },
+            {
+                "speech": "That's all right. I felt the same way before my first game.",
+                "name": "Oliver"
+            },
+            {
+                "speech": "What happened?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Er, I don't really remember. I took a bludger to the head 2 minutes in. Woke up in the hospital a week later.",
+                "name": "Oliver"
+            },
+            {
+                "speech": "Hello, and welcome to Hogwarts' first Quidditch game of the season! Today's game Slytherin versus Gryffindor!!!",
+                "name": "Lee"
+            },
+            {
+                "speech": "Gryffindor!",
+                "name": "Neville"
+            },
+            {
+                "speech": "The players take their positions as Madam Hooch steps out onto the field to begin the game.",
+                "name": "Lee"
+            },
+            {
+                "speech": "Now, I want a nice clean game...from all of you.",
+                "name": "Hooch"
+            },
+            {
+                "speech": "The bludgers are up...followed by the Golden Snitch. Remember, the snitch is worth 150 points. The seeker who catches the Snitch ends the game.",
+                "name": "Lee"
+            },
+            {
+                "speech": "The Quaffle is released...and the game begins!",
+                "name": "Lee"
+            },
+            {
+                "speech": "Angelina Johnson scores! 10 points for Gryffindor!",
+                "name": "Lee"
+            },
+            {
+                "speech": "Yes!  Whoa!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Well done!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Slytherin takes possession of the Quaffle. Bletchley passes to Captain Marcus Flint.",
+                "name": "Lee"
+            },
+            {
+                "speech": "Yay!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Yay!",
+                "name": "Seamus"
+            },
+            {
+                "speech": "Yes!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Another 10 points to Gryffindor!",
+                "name": "Lee"
+            },
+            {
+                "speech": "Yay!",
+                "name": "Gryffindors"
+            },
+            {
+                "speech": "Give me that!",
+                "name": "Flint"
+            },
+            {
+                "speech": "",
+                "name": "Crowd"
+            },
+            {
+                "speech": "Take that side!",
+                "name": "Flint"
+            },
+            {
+                "speech": "Whoa! Whooa!",
+                "name": "Harry"
+            },
+            {
+                "speech": "What's going on with Harry's broomstick?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "It's Snape! He's jinxing the broom!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Jinxing the broom? What do we do?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Leave it to me.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Come on, Hermione!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Lacarnum Inflamarae.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Fire! You're on fire!",
+                "name": "Man"
+            },
+            {
+                "speech": "What? Oh!",
+                "name": "Snape"
+            },
+            {
+                "speech": "Go!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Go go go!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Looks like he's gonna be sick!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "He's got the Snitch! Harry Potter receives 150 points for catching the Snitch!",
+                "name": "Lee"
+            },
+            {
+                "speech": "Gryffindor win!",
+                "name": "Hooch"
+            },
+            {
+                "speech": "YAY!",
+                "name": "All"
+            },
+            {
+                "speech": "No!",
+                "name": "Draco"
+            },
+            {
+                "speech": "Yes!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Whoo-hoo!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Go go Gryffindor! Go go Gryffindor! Go go Gryffindor! Go go Gryffindor!",
+                "name": "Crowd"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Harry, Hermione and Ron are walking along a path with Hagrid, talking."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Nonsense. Why would Snape put a curse on Harry's broom?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Who knows. Why was he trying to get past that 3 headed dog on Halloween?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Who told you 'bout Fluffy?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Fluffy?",
+                "name": "Ron"
+            },
+            {
+                "speech": "That thing has a name?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Well, of course he's got a name. He's mine. I bought him off an Irish feller I met down at the pub last year. Then I lent him to Dumbledore to guard the",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Yes?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Shouldn'ta said that. Don't ask any more questions. That's top secret, that is.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "But Hagrid, whatever Fluffy's guarding, Snape's trying to steal it!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Codswallop. Professor Snape is a Hogwarts teacher.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Hogwarts teacher or not, I know a curse when I see one. I've read all about them. You have to keep eye contact. And Snape wasn't blinking.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Exactly.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Now, you listen to me, all three of you. You're meddlin' in things that ought not to be meddled in. It's dangerous. What that dog is guarding is strictly between Professor Dumbledore and Nicholas Flamel.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Nicholas Flamel?",
+                "name": "Harry"
+            },
+            {
+                "speech": "I shouldn't have said that. I should not have said that. I should not have said that.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Nicholas Flamel...Who's Nicholas Flamel?",
+                "name": "Harry"
+            },
+            {
+                "speech": "I don't know.",
+                "name": "Hermione"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Christmas. The camera pans up to a snowy castle, then to Hagrid, who is bringing in a large tree. Inside the great hall, students are leaving and ghosts are singing (Merry Christmas, Merry Christmas, ring the Hogwarts bell. Merry Christmas, Merry Christmas...) Hermione approaches the empty tables, wheeling a cart. She goes to Ron and Harry, who are playing chess."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Knight to E-5.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Queen to E-5.",
+                "name": "Ron"
+            },
+            {
+                "speech": "That's totally barbaric!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "That's wizard's chess. I see you've packed.",
+                "name": "Ron"
+            },
+            {
+                "speech": "See you haven't.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Change of plans. My parents decided to go to Romania to visit my brother, Charlie. He's studying dragons there!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Good. You can help Harry, then. He's going to go the library for information on Nicholas Flamel.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "We've looked a hundred times!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Not in the restricted section...Happy Christmas.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I think we've had a bad influence on her.",
+                "name": "Ron"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "X-mas morning. Hedwig is perched in the boys' room, and Harry is asleep in bed."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Harry, wake up! Come on Harry, wake up!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Happy Christmas, Harry.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Happy Christmas, Ron. What are you wearing?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh, Mum made it for me. Looks like you've got one too!",
+                "name": "Ron"
+            },
+            {
+                "speech": "I've got presents?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Yeah!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Oh!",
+                "name": "Harry"
+            },
+            {
+                "speech": "There they are.",
+                "name": "Ron"
+            },
+            {
+                "speech": "\"Your father left this in my possession before he died. It is time it was returned to you. Use it well.\"",
+                "name": "Harry"
+            },
+            {
+                "speech": "What is it?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Some kind of...cloak.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Well, let's see then. Put it on.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Whoa!",
+                "name": "Ron"
+            },
+            {
+                "speech": "My body's gone!",
+                "name": "Harry"
+            },
+            {
+                "speech": "I know what that is! That's an invisibility cloak!",
+                "name": "Ron"
+            },
+            {
+                "speech": "I'm invisible??",
+                "name": "Harry"
+            },
+            {
+                "speech": "They're really rare. I wonder who gave it to you.",
+                "name": "Ron"
+            },
+            {
+                "speech": "There was no name. It just said, \"Use it well.\"",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Late at night. A lantern and hand appear, but nothing else. The ensemble walk through the dark library and into the Restricted Section. The lamp is put down, and the cloak removed. Harry appears."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Famous fire eaters...15th Century Fiends...Flamel...Nicholas Flamel...where are you?",
+                "name": "Harry"
+            },
+            {
+                "speech": "AHHHHHHHHHHHHHHHH!!!!!!!!",
+                "name": "Man"
+            },
+            {
+                "speech": "Who's there?!  I know you're in there. You can't hide.  Who is it? Show yourself!",
+                "name": "Filchs voice"
+            },
+            {
+                "speech": "Severus...I-I thought...",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "You don't want me as your enemy, Quirrell.",
+                "name": "Snape"
+            },
+            {
+                "speech": "W-what do you m-mean?",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "You know perfectly well what I mean.  We'll have another chat soon...when you've had time to decide where your loyalties lie.",
+                "name": "Snape"
+            },
+            {
+                "speech": "Oh, Professors. I found this, in the Restricted Section. It's still hot. That means there's a student out of bed.",
+                "name": "Filch"
+            },
+            {
+                "speech": "Mum?  Dad? {nods and smiles. Harry reaches out to touch them, but only gets the mirror. Then, his mother puts her hand on his shoulder. He puts his own hand on his own shoulders, as if trying to feel her there.",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The boys' room. Harry comes whipping in, invisible."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Ron! You've really got to see this! Ron! You've got to see this!  Ron, Ron, come on. Get out of bed!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Why?",
+                "name": "Ron"
+            },
+            {
+                "speech": "There's something you've got to see. Now, come on!",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Back in the mirror room. Harry and Ron appear as if magically and Harry runs to the mirror."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Come on. Come. Come look, it's my parents!",
+                "name": "Harry"
+            },
+            {
+                "speech": "I only see me.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Look in properly. Go on. Stand there. There. You see them, don't you? Thats my dad",
+                "name": "Harry"
+            },
+            {
+                "speech": "That's me! Only, I'm head boy...and I'm holding the Quidditch cup! And bloody hell, I'm Quidditch Captain too! I look good. Harry, do you think this mirror shows the future?",
+                "name": "Ron"
+            },
+            {
+                "speech": "How can it? Both my parents are dead.",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Another night. Harry is sitting in front of the mirror. Dumbledore appears behind him."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Back again, Harry?  I see that you, like so many before you, have discovered the delights of the Mirror of Erised. I trust by now you realize what it does. Let me give you a clue. The happiest man on earth would look into the mirror and see only himself, exactly as he is.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "So, then it shows us what we want? Whatever we want?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Yes...and no. It shows us nothing more or less than the deepest, most desperate desires of our hearts. Now you, who have never known your family, you see them standing beside you. But remember this, Harry. This mirror gives us neither knowledge or truth. Men have wasted away in front of it, even gone mad. That is why tomorrow it will be moved to a new home, and I must ask you not to go looking for it again. It does not do to dwell on dreams, Harry, and forget to live.",
+                "name": "Dumbledore"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Daytime. It is all snowy. Harry is out in a main courtyard, bundled up, with Hedwig on his arm. He stops and she lifts off, soaring away into the sky. When she returns, it is spring time.",
+            "I added manually--"
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Hi, Hedwig.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Look at you, playing with your cards. Pathetic! We've got final exams soon.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I'm ready. Ask me any question.",
+                "name": "Ron"
+            },
+            {
+                "speech": "All right. What are the ingredients in a Forgetfulness Potion?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I forgot.",
+                "name": "Ron"
+            },
+            {
+                "speech": "What do you plan to do if it's in the exam?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Copy off you.",
+                "name": "Ron"
+            },
+            {
+                "speech": "No, you won't.  Besides, we're to be given  special quills with an AntiCheating Spell.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "That's insulting! It's as if they don't trust us!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Dumbledore again!",
+                "name": "Harry"
+            },
+            {
+                "speech": "LegLocker Curse?  Malfoy.",
+                "name": "Ron"
+            },
+            {
+                "speech": "You have got to start standing up to people. Neville",
+                "name": "Ron"
+            },
+            {
+                "speech": "How? I can barely stand at all!",
+                "name": "Neville"
+            },
+            {
+                "speech": "I'll do the countercurse!",
+                "name": "Seamus"
+            },
+            {
+                "speech": "No, that's all I need! You to set my kneecaps on fire!",
+                "name": "Neville"
+            },
+            {
+                "speech": "I don't appreciate the insinuation, Longbottom.  Besides, if anyone cared to notice, my eyebrows have completely grown back!",
+                "name": "Seamus"
+            },
+            {
+                "speech": "I found him!",
+                "name": "Harry"
+            },
+            {
+                "speech": "\"Dumbledore is particularly famous for his defeat of the dark wizard Grindelwald in 1945.\"",
+                "name": "Ron"
+            },
+            {
+                "speech": "Go on!  \"For his discovery of the twelve uses of dragon blood... and his welcomed alchemy with his partner Nicholas Flamel\"!",
+                "name": "Ron"
+            },
+            {
+                "speech": "I knew the name sounded familiar. I read it on the train that day.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Follow me!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Hey! Wait! Where are you going?  What about the countercurse?",
+                "name": "Neville"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "In the library. Harry and Ron are seated, reading. Hermione comes up with a huge book. She thumps it onto the table. Harry jumps."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "I had you looking in the wrong section! How could I be so stupid? I checked this out a few weeks ago for a bit of light reading.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "This is light?",
+                "name": "Ron"
+            },
+            {
+                "speech": "Of course! Here it is! \"Nicholas Flamel is the only known maker of the Philosopher's Stone!\"",
+                "name": "Hermione"
+            },
+            {
+                "speech": "The what?",
+                "name": "Ron"
+            },
+            {
+                "speech": "The what?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Honestly, don't you two read? \"The Philosopher's Stone is a legendary substance with astonishing powers. It will turn any metal into pure gold and produces the Elixir of Life, which will make the drinker immortal.\"",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Immortal?",
+                "name": "Ron"
+            },
+            {
+                "speech": "It means you'll never die.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I know what it means!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Shh!",
+                "name": "Harry"
+            },
+            {
+                "speech": "\"The only stone currently in existence belongs to Mr. Nicholas Flamel, the noted alchemist, who last year celebrated his 665th birthday!\" That's what Fluffy's guarding on the 3rd floor. That's what's under the trapdoor...the Philosopher's Stone!",
+                "name": "Hermione"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Nighttime. Hermione, Ron and Harry are running across the wet ground to Hagrids hut. They knock on the door and it opens."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Hagrid!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh, hello. Sorry, don't wish to be rude, but I'm in no fit state to entertain today.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "We know about the Philosopher's Stone!",
+                "name": "All 3"
+            },
+            {
+                "speech": "Oh.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "We think Snape's trying to steal it.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Snape? Blimey, Harry, you're not still on about him, are you?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Hagrid, we know he's after the Stone. We just don't know why.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Snape is one of the teachers protecting the Stone! He's not about to steal it!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "What?",
+                "name": "Harry"
+            },
+            {
+                "speech": "You heard. Right. Come on, now, I'm a bit preoccupied today.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Wait a minute.  One of the teachers?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Of course! There are other things defending the Stone, aren't there? Spells, enchantments.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "That's right. Waste of bloody time, if you ask me.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Uh, Hagrid, what exactly is that?",
+                "name": "Harry"
+            },
+            {
+                "speech": "That? It's a ... its um...",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "I know what that is! But Hagrid, how did you get one?",
+                "name": "Ron"
+            },
+            {
+                "speech": "I won it. Off a stranger I met down at a pub. Seemed quite glad to be rid off it, as a matter of fact.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Is that...a dragon?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "That's not just a dragon. That's a Norwegian Ridgeback! My brother Charlie works with these in Romania.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Isn't he beautiful? Oh. Bless him, look. He knows his mummy. Hehe. Hallo, Norbert.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Norbert?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Yeah, well, he's got to have a name, doesn't he?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Ha Ha.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Don't you, Norbert?  Dededede.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Ohh! Oooh, ooh, ooh, well...he'll have to be trained up a bit, of course.  Who's that?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Malfoy.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh, dear.",
+                "name": "Hagrid"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The three are walking back through a corridor. An owl screeches."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Hagrid always wanted a dragon. He told me so the first time I met him.",
+                "name": "Harry"
+            },
+            {
+                "speech": "It's crazy. And worse, Malfoy knows.",
+                "name": "Ron"
+            },
+            {
+                "speech": "I don't understand. Is that bad?",
+                "name": "Harry"
+            },
+            {
+                "speech": "It's bad.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Good evening.",
+                "name": "McGonagall"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "McGonagall's classroom. The three accused are standing in front of McGonagall's desk, while Malfoy is feet away, smirking."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Nothing, I repeat, nothing gives a student the right to walk about the school at night. Therefore, as punishment for your actions, 50 points will be taken.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "50?!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Each. And to ensure it doesn't happen again, all four of you will receive detention.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Excuse me, Professor. Perhaps I heard you wrong. I thought you said...\"the four of us.\"",
+                "name": "Draco"
+            },
+            {
+                "speech": "No, you heard me correctly, Mr. Malfoy. You see, as honorable as your intentions were, you too were out of bed after hours. You will serve detention with your classmates.",
+                "name": "McGonagall"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Outside, at night, the four students are being led to Hagrid's hut by Mr. Filch."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "A pity they let the old punishments die. There was a time detention would find you hanging by your thumbs in the dungeons. God, I miss the screaming.  You'll be serving detention with Hagrid tonight. He's got a little job to do inside the dark forest.  A sorry lot this, Hagrid. Oh, good God, man, you're not still on about that bloody dragon, are you?",
+                "name": "Filch"
+            },
+            {
+                "speech": "Norbert's gone. Dumbledore sent him off to Romania to live in a colony.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Well, that's good, isn't it? He'll be with his own kind.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Yeah, but what if he don't like Romania?  What if the other dragons are mean to him? He's only a baby, after all.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Oh, for Gods sake, pull yourself together, man. You're going into the forest, after all. Got to have your wits about you.",
+                "name": "Filch"
+            },
+            {
+                "speech": "The forest? I thought that was a joke! We can't go in there. Students aren't allowed. And there are......werewolves!",
+                "name": "Draco"
+            },
+            {
+                "speech": "There's more than werewolves in those trees, lad. You can be sure of that.  Nighty-night.",
+                "name": "Filch"
+            },
+            {
+                "speech": "Right. Let's go.",
+                "name": "Hagrid"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "In the forest. The group walks along a path to a tree. Hagrid stops, bends down and dips his fingers in a silver puddle. He pulls out his fingers and rubs them together. A silver trail smears with his fingers."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Hagrid, what's that?",
+                "name": "Harry"
+            },
+            {
+                "speech": "What we're here for. See that? That's unicorn's blood, that is. I found one dead a few weeks ago. Now, this one's been injured bad by something.  So, it's our job to find the poor beast. Ron, Hermione, you'll come with me.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Okay.",
+                "name": "Ron"
+            },
+            {
+                "speech": "And Harry, you'll go with Malfoy.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Okay. Then I get Fang!",
+                "name": "Draco"
+            },
+            {
+                "speech": "Fine. Just so you know, he's a bloody coward.",
+                "name": "Hagrid"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Harry and Draco are walking through the forest, Fang leading. Draco has the lamp."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "You wait till my father hears about this. This is servant's stuff.",
+                "name": "Draco"
+            },
+            {
+                "speech": "If I didn't know better, Draco, I'd say you were scared.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Scared, Potter?!   Did you hear that? Come on, Fang. Scared.",
+                "name": "Draco"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The group approaches a flat ground with gnarled roots all over. Fang stops, then growls."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "What is it, Fang?",
+                "name": "Harry"
+            },
+            {
+                "speech": "AHHHHHHHHH!!! AHHH!  HELP!!!!!",
+                "name": "Draco"
+            },
+            {
+                "speech": "Harry Potter, you must leave. You are known to many creatures here. The forest is not safe at this time. Especially for you.",
+                "name": "Firenze"
+            },
+            {
+                "speech": "But what was that thing you saved me from?",
+                "name": "Harry"
+            },
+            {
+                "speech": "A monstrous creature. It is a terrible crime to slay a unicorn. Drinking the blood of a unicorn will keep you alive even if you are an inch from death. But at a terrible price. You have slain something so pure that the moment the blood touches your lips, you will have a half-life. A cursed life.",
+                "name": "Firenze"
+            },
+            {
+                "speech": "But who would choose such a life?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Can you think of no one?",
+                "name": "Firenze"
+            },
+            {
+                "speech": "Do you mean to say...that that thing that killed the unicorn...that was drinking its blood...that was Voldemort?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Do you know what is hidden in the school at this very moment?",
+                "name": "Firenze"
+            },
+            {
+                "speech": "The Philosopher's Stone.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Harry!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Hello there, Firenze. I see you've met our young Mr. Potter. You all right there, Harry?",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Harry Potter, this is where I leave you. You're safe now. Good luck.",
+                "name": "Firenze"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Gryffindor common room. Right after 'attack.' The group is around the fire. Hermione and Ron are seated, but Harry stands."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "You mean, You-Know-Who's out there, right now, in the forest?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "But he's weak. He's living off the unicorns. Don't you see? We had it wrong. Snape doesn't want the stone for himself, he wants the stone for Voldemort. With the Elixir of Life, Voldemort will be strong again. He'll He'll come back.",
+                "name": "Harry"
+            },
+            {
+                "speech": "But if he comes back, you don't think he'll try to kill you, do you?",
+                "name": "Ron"
+            },
+            {
+                "speech": "I think if he'd had the chance, he might have tried to kill me tonight.",
+                "name": "Harry"
+            },
+            {
+                "speech": "And to think, I've been worrying about my Potions final!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Hang on a minute. We're forgetting one thing. Who's the one wizard Voldemort always feared?",
+                "name": "Hermione"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Some time later. In the outdoor courtyard. The three are walking."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "I've always heard Hogwarts' end of the year exams were frightful, but I found that rather enjoyable.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Speak for yourself. All right there, Harry?",
+                "name": "Ron"
+            },
+            {
+                "speech": "My scar. It keeps burning.",
+                "name": "Harry"
+            },
+            {
+                "speech": "It's happened before.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Not like this.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Perhaps you should see the nurse.",
+                "name": "Ron"
+            },
+            {
+                "speech": "I think it's a warning. It means dangers coming. Uhh!  Oh. Of course!",
+                "name": "Harry"
+            },
+            {
+                "speech": "What is it?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Don't you think it's a bit odd that what Hagrid wants more than anything is a dragon, and a stranger shows up and just happens to have one?  I mean, how many people wander around with dragon eggs in their pockets? Why didn't I see it before? Hagrid, who gave you the dragon egg?  What did he look like?",
+                "name": "Harry"
+            },
+            {
+                "speech": "I don't know. I never saw his face. He kept his hood up.",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "The stranger, though, you and he must have talked.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Well, he wanted to know what sort of creatures I looked after. I told him. I said, \"After Fluffy, a dragon's gonna be no problem.\"",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "And did he seem interested in Fluffy?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Well, of course he was interested in Fluffy! How often do you come across a three headed dog, even if you're in the trade? But I told him. I said, \"The trick with any beast is to know how to calm him. Take Fluffy, for example, just play him a bit of music and he falls straight to sleep.\"",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "I shouldn't have told you that.  Where you going?! Wait!",
+                "name": "Hagrid"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "McGonagall's classroom. The three come tearing in and run up the aisles between desks. They pass a ghost and stop at the desk."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "We have to see Professor Dumbledore, immediately!",
+                "name": "Harry"
+            },
+            {
+                "speech": "I'm afraid Professor Dumbledore is not here. He received an urgent owl from the Ministry of Magic and left immediately for London.",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "He's gone?! Now? But this is important! It's about...the Philosopher's Stone.",
+                "name": "Harry"
+            },
+            {
+                "speech": "How do you know",
+                "name": "McGonagall"
+            },
+            {
+                "speech": "Someone's going to try and steal it.",
+                "name": "Harry"
+            },
+            {
+                "speech": "I don't know how you three found out about the stone, but I can assure you it is perfectly well-protected. Now would you go back to your dormitories? Quietly.",
+                "name": "McGonagall"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "After exiting McGonagall's class, they walk down the hallway."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "That was no stranger Hagrid met in the village. It was Snape, which means he knows how to get past Fluffy.",
+                "name": "Harry"
+            },
+            {
+                "speech": "And with Dumbledore gone",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Good afternoon. Now, what would three young Gryffindors such as yourselves be doing inside on a day like this?",
+                "name": "Snape"
+            },
+            {
+                "speech": "Uh...we were just...",
+                "name": "Hermione"
+            },
+            {
+                "speech": "You want to be careful. People will think you're  up to something.",
+                "name": "Snape"
+            },
+            {
+                "speech": "Now what do we do?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "We go down the trapdoor. Tonight.",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Nighttime. In the Gryffindor Common Room. The three friends come down the stairs and begin to walk across the floor. They stop when they hear croaking."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Trevor.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Trevor shh! Go, you shouldn't be here!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Neither should you. You're sneaking out again, arent you?",
+                "name": "Neville"
+            },
+            {
+                "speech": "Now, Neville, listen. We were",
+                "name": "Harry"
+            },
+            {
+                "speech": "No! I won't let you!  You'll get Gryffindor in trouble again! I-I'll fight you.",
+                "name": "Neville"
+            },
+            {
+                "speech": "Neville, I'm really, really sorry about this... Petrificus Totalus.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "You're a little scary sometimes...you know that? Brilliant, but scary.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Let's go.  Sorry.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Sorry.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "It's for your own good, you know.",
+                "name": "Ron"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The three are under the Invisibility cloak, sneaking along the corridor."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Ow! You stood on my foot!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Sorry.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Alohomora.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Wait a minute...he's.... Sleeping.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Snape's already been here. He's put a spell on the harp.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Uh. It's got horrible breath!",
+                "name": "Ron"
+            },
+            {
+                "speech": "We have to move its paw.",
+                "name": "Harry"
+            },
+            {
+                "speech": "What?!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Come on!  Okay. Push!  I'll go first. Don't follow until I give you a sign.  If something bad happens, get yourselves out...Does it seem a bit...quiet?",
+                "name": "Harry"
+            },
+            {
+                "speech": "The harp. It stopped playing.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Ew! Yuck! Ugh.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Jump! Go!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Ahh!  Whoa. Lucky this plant-thing is here, really.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Whoa!  Oh. Ahh!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Stop moving, both of you. This is Devil's Snare. You have to relax. If you don't, it will only kill you faster.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Kill us faster?! Oh, now I can relax!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Hermione!!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Hermione!!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Now what are we gonna do?!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Just relax!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Hermione! Where are you?!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Do what I say. Trust me.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Ahh! Harry!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Harry!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Are you okay?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Yeah, yeah, I'm fine.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Help!",
+                "name": "Ron"
+            },
+            {
+                "speech": "He's not relaxing, is he?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Apparently not.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Help! Help me!",
+                "name": "Ron"
+            },
+            {
+                "speech": "We've got to do something!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "What?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Uh! I remember reading something in Herbology.  Um Devil's Snare, Devil's Scare,  it's deadly fun...but will sulk in the sun! That's it! Devil's Snare hates sunlight!  Lumus Solem!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Ahhh!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ron, are you okay?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Yeah.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Okay.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Whew. Lucky we didn't panic!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Lucky Hermione pays attention in Herbology.",
+                "name": "Harry"
+            },
+            {
+                "speech": "What is that?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I don't know. Sounds like wings.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Curious. I've never seen birds like these.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "They're not birds, they're keys. And I'll bet one of them fits that door.",
+                "name": "Harry"
+            },
+            {
+                "speech": "What's this all about?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "I don't know. Strange.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Alohomora!  Well, it was worth a try.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ugh! What're we going to do? There must be 1000 keys up there!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "We're looking for a big old fashioned one. Probably rusty like the handle.",
+                "name": "Ron"
+            },
+            {
+                "speech": "There! I see it!  The one with the broken wing!",
+                "name": "Harry"
+            },
+            {
+                "speech": "What's wrong, Harry?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "It's too simple.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Oh, go on, Harry! If Snape can catch it on that old broomstick, you can! You're the youngest seeker in a century!",
+                "name": "Ron"
+            },
+            {
+                "speech": "This complicates things a bit!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Catch the key!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Hurry up!",
+                "name": "Ron"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "They enter a dark room, with broken pieces all around it."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "I don't like this. I don't like this at all.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Where are we? A graveyard.",
+                "name": "Harry"
+            },
+            {
+                "speech": "This is no graveyard.  It's a chessboard.",
+                "name": "Ron"
+            },
+            {
+                "speech": "There's the door.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Now what do we do?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "It's obvious, isn't it? We've got to play our way across the room. All right. Harry, you take the Bishop's square. Hermione, you'll be the Queen's side castle. As for me, I'll be a knight.",
+                "name": "Ron"
+            },
+            {
+                "speech": "What happens now?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Well, white moves first, and then...we play.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ron, you don't suppose this is going to be like...real wizard's chess, do you?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "You there! D-5!  Yes, Hermione, I think this is going to be exactly like wizard's chess!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Castle to E-4!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Pawn to C-3!",
+                "name": "Ron"
+            },
+            {
+                "speech": "Wait a minute.",
+                "name": "Harry"
+            },
+            {
+                "speech": "You understand right, Harry. Once I make my move, the Queen will take me...then you'll be free to check the King.",
+                "name": "Ron"
+            },
+            {
+                "speech": "No, Ron! No!",
+                "name": "Harry"
+            },
+            {
+                "speech": "What is it?",
+                "name": "Hermione"
+            },
+            {
+                "speech": "He's going to sacrifice himself!",
+                "name": "Harry"
+            },
+            {
+                "speech": "No, Ron, you can't!  There must be another way!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Do you want to stop Snape or not? Harry, it's you that has to go on. I know it. Not me, not Hermione, you.  Knight...to H-3.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Check.",
+                "name": "Ron"
+            },
+            {
+                "speech": "Ahhhh!",
+                "name": "Ron"
+            },
+            {
+                "speech": "RON!  NO! Don't move! Dont forget, we're still playing.  Checkmate.  Take care of Ron. Then, go to the owlery. Send a message to Dumbledore. Ron's right...I have to go on.",
+                "name": "Harry"
+            },
+            {
+                "speech": "You'll be okay, Harry. You're a great wizard, you really are.",
+                "name": "Hermione"
+            },
+            {
+                "speech": "Not as good as you.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Me? Books and cleverness? There are more important things. Friendship, and bravery. And Harry, just be careful.",
+                "name": "Hermione"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Harry walks down a long staircase to an empty room with pillars around it. The Mirror of Erised is in the middle of the room, and a man is standing before it. It is Quirrell. Harry yelps and grabs his scar."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "You?  No. It can't be...Snape. He was the one",
+                "name": "Harry"
+            },
+            {
+                "speech": "Yes. He does seem the type, doesn't he? Next to me, who would suspect, \"p-p-poor s-stuttering Professor Quirrell?\"",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "B-but, that day, during the Quidditch Match, Snape tried to kill me.",
+                "name": "Harry"
+            },
+            {
+                "speech": "No, dear boy. I tried to kill you! And trust me, if Snape's cloak hadn't caught fire and broken my eye contact, I would have succeeded. Even with Snape muttering his little counter-curse.",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Snape was trying to...save me?",
+                "name": "Harry"
+            },
+            {
+                "speech": "I knew you were a danger right from the off. Especially after Halloween.",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Th-then you let the troll in.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Very good Potter, yes. Snape, unfortunately, wasn't fooled. While everyone else was running to the dungeon, he went to the 3rd floor to head me off. He, of course, never trusted me again. He rarely left me alone.  But he doesn't understand. I'm never alone. Never. Now...what does this mirror do? I see what I desire. I see myself holding the stone. But how do I get it?",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Use the boy.",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "Come here, Potter, now!",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Tell me. What do you see?",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "What is it?! What do you see?!",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "I-I'm shaking hands with Dumbledore. I've won the house cup.",
+                "name": "Harry"
+            },
+            {
+                "speech": "He lies.",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "Tell the truth! What do you see?!",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Let me speak to him.",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "Master, you are not strong enough.",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "I have strength enough for this.  Harry Potter. We meet again.",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "Voldemort.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Yes. You see what I have become? See what I must do to survive? Live off another. A mere parasite. Unicorn blood can sustain me, but it cannot give me a body of my own. But there is something that can. Something, that conveniently enough, lies in your pocket!",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "Stop him!  Don't be a fool! Why suffer a horrific death when you can join me and live?!",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "Never!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Haha. Bravery. Your parents had it too. Tell me, Harry, would you like to see your mother and father again? Together, we can bring them back.  All I ask for is something in return.  That's it, Harry. There is no good and evil. There is only power, and those too weak to seek it. Together, we'll do extraordinary things. Just give me the stone!",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "You liar!",
+                "name": "Harry"
+            },
+            {
+                "speech": "Kill him!",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "Ahh! Ahh!  What is this magic?",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Fool! Get the stone!",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "Ahhhhhhhhhh!",
+                "name": "Quirrell"
+            },
+            {
+                "speech": "Arrrhhhhhh!",
+                "name": "Voldemort"
+            },
+            {
+                "speech": "Ahhhhhhhhh!",
+                "name": "Harry"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The hospital wing. Harry is bandaged, lying in bed. He awakens, puts on his glasses, and sits up. There are cards and candy all over. Dumbledore approaches him."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Good afternoon, Harry. Ah. Tokens from your admirers?",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Admirers?",
+                "name": "Harry"
+            },
+            {
+                "speech": "What happened down in the dungeons between you and Professor Quirrell is a complete secret, so, naturally, the whole school knows.  Ah, I see your friend Ronald has saved you the trouble of opening your Chocolate Frogs.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Ron was here? Is he all right? What about Hermione?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Fine. They're both just fine.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "But, what happened to the Stone?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Relax, dear boy. The stone has been destroyed. My friend Nicholas and I had a little chat and agreed it was best all around.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "But Flamel, he'll die, won't he?",
+                "name": "Harry"
+            },
+            {
+                "speech": "He has enough Elixir to set his affairs in order. But yes, he will die.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "How is it I got the Stone, sir? One minute I was staring in the mirror, and the next...",
+                "name": "Harry"
+            },
+            {
+                "speech": "Ah. You see, only a person who wanted to find the Stone, find it, but not use it, would be able to get it. That is one of my more brilliant ideas. And between you and me thats saying something.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Does that mean, with the Stone gone, I mean, that Voldemort can never come back?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Ah, I'm afraid there are ways in which he can return. Harry, do you know why Professor Quirrell couldn't bear to have you touch him?  It was because of your mother. She sacrificed herself for you, and that kind of act leaves a mark.  No, no, this kind of mark cannot be seen. It lives in your very skin.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "What is it?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Love, Harry, love.  Ah. Bertie Bott's Every Flavour Beans. I was most unfortunate in my youth to come across a vomit flavoured one, and since then I have lost my liking for them. But I think I could be safe with a nice toffee... Mm. Alas. Earwax.",
+                "name": "Dumbledore"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "Harry approaches a room where up on a stairwell balcony Hermione and Ron are talking. They stop when they see Harry and lean over the railing."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "All right there, Ron?",
+                "name": "Harry"
+            },
+            {
+                "speech": "All right? You?",
+                "name": "Ron"
+            },
+            {
+                "speech": "All right. Hermione?",
+                "name": "Harry"
+            },
+            {
+                "speech": "Never better.",
+                "name": "Hermione"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "In the great hall. All students are seated, and green banners with snakes on them are around the ceiling.",
+            "Dumbledore, at the head table, nods to McGonagall.",
+            "She dings her glass and the chatter stops. Dumbledore rises."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Another year gone. And now, as I understand it, the house cup needs awarding, and the points stand thus. In fourth place, Gryffindor with 312 points.  Third place, Hufflepuff, with 352 points.  In second place, Ravenclaw, with 426 points.  And in first place, with 472 points, Slytherin House.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Whoo! Yeah!",
+                "name": "Students"
+            },
+            {
+                "speech": "Nice one, Mate!",
+                "name": "Draco"
+            },
+            {
+                "speech": "Yes, yes, well done Slytherin, well done Slytherin. However, recent events must be taken into account. And I have a few last minute points to award.  To Miss Hermione Granger, for the use of cool intellect when others were in great peril, 50 points.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Good job.",
+                "name": "Harry"
+            },
+            {
+                "speech": "Second, to Mr. Ronald Weasley, for the best played game of chess  that Hogwarts has seen these many years...50 points.  And third, to Mr. Harry Potter, for pure nerve and outstanding courage, I award Gryffindor house 60 points.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "We're tied with Slytherin!",
+                "name": "Hermione"
+            },
+            {
+                "speech": "And finally, it takes a great deal of bravery to stand up to your enemies, but a great deal more to stand up to your friends. I award 10 points to Neville Longbottom.",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Assuming that my calculations are correct, I believe that a change of direction is in order.  Gryffindor wins the House Cup!",
+                "name": "Dumbledore"
+            },
+            {
+                "speech": "Yes!",
+                "name": "Hagrid"
+            },
+            {
+                "speech": "Neville!",
+                "name": "Seamus"
+            },
+            {
+                "speech": "Yeah! We won!!",
+                "name": "Lee"
+            }
+        ]
+    },
+    {
+        "sceneInfo": [
+            "The outdoor train station. Students are walking around, getting in the train."
+        ],
+        "sceneSpeech": [
+            {
+                "speech": "Come on now, hurry up. You'll be late. Train's leaving. Go on. Go on. Come on. Hurry up.",
+                
